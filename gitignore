@@ -1,0 +1,7 @@
+__pycache__/
+*.log
+*.txt
+bulk_scan_report.txt
+scan_log_*.txt
+.env
+.DS_Store
