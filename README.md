@@ -21,10 +21,10 @@ A simple Python tool to scan websites for common HTTP security headers.
 
 ## 🚀 Installation
 
-Clone the repo or download the `security_header_scanner_en.py` file and run:
+Clone the repo or download the `security_header_scanner.py` file and run:
 
 ```bash
-python security_header_scanner_en.py
+python security_header_scanner.py
 ```
 
 ## 🧪 Usage
